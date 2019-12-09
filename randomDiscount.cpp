@@ -15,7 +15,7 @@ int main() {
 
 	float price;	// قیمت اصلی
 	float discount;	// درصد تخفیف
-	float pay;		// قیمت پس از تخفیف
+	float pay;	// قیمت پس از تخفیف
 
 	cin >> price;
 
