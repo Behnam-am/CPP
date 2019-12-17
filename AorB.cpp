@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : Defines the entry point for the console application.
+// There are 10 types of people in this world. Those who understand binary and those who don't.
 // برنامه ای که حاصلضرب دو عدد را با جمع متوالی آنها
 // و عدد بزرگتر به توان عدد کوچکتر را با ضرب متوالی آنها محاسبه کند
 
