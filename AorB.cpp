@@ -1,5 +1,6 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
-// برنامه ای که حاصلضرب با جمع و توان با حاصلضرب دو عدد را محاسبه کند
+// برنامه ای که حاصلضرب دو عدد را با جمع متوالی آنها
+// و عدد بزرگتر به توان عدد کوچکتر را با ضرب متوالی آنها محاسبه کند
 
 
 #include <iostream>
