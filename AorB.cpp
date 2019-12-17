@@ -1,7 +1,7 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
-//
+// برنامه ای که حاصلضرب با جمع و توان با حاصلضرب دو عدد را محاسبه کند
 
-#include "stdafx.h"
+
 #include <iostream>
 #include <cmath>
 
