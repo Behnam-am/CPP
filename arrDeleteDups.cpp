@@ -5,10 +5,9 @@
 #include <math.h>
 using namespace std;
 
-const int arrSize = 10;
 
 int main() {
-
+	const int arrSize = 10;
 	float grades[arrSize], x;
 	int j = 0;
 
