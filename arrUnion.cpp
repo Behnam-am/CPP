@@ -1,5 +1,5 @@
 ﻿// There are 10 types of people in this world. Those who understand binary and those who don't.
-// برنامه ای که اجنماع دو آرایه را محاسبه کند
+// برنامه ای که اجتماع دو آرایه را محاسبه کند
 
 #include <iostream>
 #include <math.h>
