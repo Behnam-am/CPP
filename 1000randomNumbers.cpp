@@ -17,7 +17,7 @@ int main() {
 	for (int i = 0; i < 1000; i++)
 	{
 		num = rand() % 11 + 10;
-		if (num % 10 == 0)
+		if (num % 2 == 0)
 		{
 			evens++;
 		}
