@@ -21,11 +21,11 @@ int main()
 
 bool isPrime(int x, int d)
 {
-	if (d == 1)
+	if (x == 1 || d == 1)
 	{
 		return true;
 	}
-	else if (x % d == 0)
+	else if (x < 1 || x % d == 0)
 	{
 		return false;
 	}
