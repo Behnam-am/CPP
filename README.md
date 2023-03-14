@@ -6,4 +6,4 @@
 
 کانال تلگرام
 
-https://t.me/justcoding7
+https://t.me/codings98
